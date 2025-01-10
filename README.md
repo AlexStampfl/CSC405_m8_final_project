@@ -13,3 +13,5 @@ The application starts by initializing the setup code and the render code. Next,
 ## Requirements
 - HTML file
 - JavaScript file
+
+![Painter's Algorithm](./painter's_algo)
