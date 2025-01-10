@@ -14,4 +14,4 @@ The application starts by initializing the setup code and the render code. Next,
 - HTML file
 - JavaScript file
 
-![Painter's Algorithm](./painter's_algo)
+![Painter's Algorithm](./painter's_algo.png)
